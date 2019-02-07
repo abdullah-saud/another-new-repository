@@ -4,3 +4,7 @@ added a new line
 
 
 another new line
+
+
+
+final line addes to the file
